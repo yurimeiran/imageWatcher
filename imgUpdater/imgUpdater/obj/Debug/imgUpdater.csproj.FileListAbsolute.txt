@@ -1,0 +1,8 @@
+F:\dev\imgUpdater\imgUpdater\obj\Debug\imgUpdater.csprojResolveAssemblyReference.cache
+F:\dev\imgUpdater\imgUpdater\bin\Debug\imgUpdater.exe
+F:\dev\imgUpdater\imgUpdater\bin\Debug\imgUpdater.pdb
+F:\dev\imgUpdater\imgUpdater\bin\Debug\MySql.Data.dll
+F:\dev\imgUpdater\imgUpdater\obj\Debug\imgUpdater.exe
+F:\dev\imgUpdater\imgUpdater\obj\Debug\imgUpdater.pdb
+F:\dev\imgUpdater\imgUpdater\bin\Debug\GriffithElder.dll
+F:\dev\imgUpdater\imgUpdater\bin\Debug\GriffithElder.pdb
