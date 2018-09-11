@@ -31,9 +31,9 @@ namespace imgUpdater
         public void Initialize()
         {
             server = "localhost";
-            database = "anpr";
-            uid = "root";
-            password = "root";
+            database = "***";
+            uid = "****";
+            password = "*****";
             string connectionString;
             connectionString = "SERVER=" + server + ";" + "DATABASE=" +
             database + ";" + "UID=" + uid + ";" + "PASSWORD=" + password + ";";
